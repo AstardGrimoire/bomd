@@ -1,0 +1,628 @@
+entity.wreath_knight.name=Test Boss
+entity.void_blossom.name=Void Blossom
+entity.mini_blossom.name=Mini Void Blossom
+entity.spore_bomb.name=Spore Bomb
+entity.spore_cloud.name=Spore Cloud
+entity.void_spike.name=Void Blossom's Spike
+entity.nether_aberant.name=Aberrant Spirit
+entity.flame_knight.name=Knight of Burning Flame
+entity.pearl_projectile.name=Charged Ender Pearl
+entity.aoe_tile.name=Ambitious Flame
+entity.flame_sling.name=Flame Sling
+entity.flame_projectile.name=Ambitious Flame
+entity.nether_pyre.name=Ancient Obelisk
+entity.fire_resist_item.name=Fire Resistant Item
+entity.ancient_knight.name=Ancient Stormvier
+entity.ancient_knight_rapier.name=Ancient Galvonizer
+entity.ancient_fallen.name=Fallen Stormvier
+entity.rot_spike.name=Fallen Spike
+entity.soul_star.name=Soul Star
+entity.lily_locator.name=Lily Locator
+entity.night_lich.name=Night Lich
+entity.magic_missile.name=Lich Magic Missile
+entity.magic_fireball.name=Lich Magic Fireball
+entity.lich_staff.name=Night Lich's Magic Staff
+entity.track_missile.name=Lich Tracking Missile
+entity.ground_missile.name=Lich Ground Magic
+entity.lich_spawn.name=Lich Mob Spawn
+entity.levitation_block_entity=Levitation Block Entity
+entity.wyrk.name=Frost Wyrk
+entity.ice_spike.name=Frost Spike
+entity.ice_bullet.name=Frost Bullet
+entity.frost_draugr.name=Frostborn Draugr
+entity.frost_draugr_ranger.name=Frostborn Draugr Ranger
+entity.soul_bullet.name=Draugr Soul
+entity.frost_draugr_elite.name=Frostborn Draugr Champion
+entity.frost_locator.name=Frostborn Crystal
+entity.great_wyrk.name=Ancient Wyrk
+entity.frost_magic.name=Ancient Wyrk's Frost Magic
+entity.wyrk_foot.name=Wyrk's Foot
+entity.wyrk_lazer.name=Wyrk's Lazer Beam
+entity.imperial_halberd.name=High Court Halbidier
+entity.imperial_sword.name=High Court Sword Seeker
+entity.sky_lightning_bolt.name=Magic Lightning Bolt
+entity.sky_arrow.name=Golden Tracking Arrow
+entity.sky_tornado.name=Court Storm
+entity.trident_gargoyle.name=Farum Gargoyle
+entity.mage_gargoyle.name=Farum Elder Gargoyle
+entity.farum_dart.name=Farum Gargoyle Shard
+entity.light_ring_projectile.name=Light Ring
+entity.gargoyle_lazer.name=The Shining Light
+entity.friend_wyrk.name=Friendly Wyrk
+entity.dark_assassin.name=Cult of Roh Assassin
+entity.shadow_hand.name=Cult's Hand
+entity.high_king_drake.name=The High King of the Sky
+entity.storm_tornado.name=Storm Breath
+entity.storm_breath.name=Drake's Storm Breath
+entity.dragon_aoe.name=Farum Ruins Spike
+entity.dragon_special.name=High King's Divine Ring
+entity.sky_locator_projectile.name=Light Locator Projectile
+entity.high_king.name=The High King
+entity.king_holy_aoe.name=Holy Spikes
+entity.holy_wave_projectile.name=Holy Claw Projectile
+entity.blood_pile.name=King's Blood
+entity.blood_ball_proj.name=King's Blood
+entity.imperial_knight_friendly.name=Summoned Halbidier
+entity.burning_flame_projectile.name=Burning Flame Locator
+entity.incendium_spirit.name=Incendium Spirit
+entity.bareant.name=Bareant Spirit
+entity.volatile_spirit.name=Volactile Spirit
+entity.flame_spit.name=Volactile Flame
+entity.volatile_orb.name=Volactile Flame
+entity.flame_blade_proj.name=Flame Blade Projectile
+entity.dark_sorcerer.name=Roh Sorcerer
+entity.proj_dark_matter.name=Void Mana
+entity.dark_royal.name=Roh Crypt Guard
+entity.puzzle_orb.name=Grum Puzzle Ball
+entity.scutter_beetle.name=Scutter Beetle
+entity.aegyptia.name=Aegyptia Recurian
+entity.obsidilith.name=Obsidilith
+entity.blue_wave.name=Obsidilith's Magic
+entity.voidiant.name=Voidiant
+entity.voidclysm.name=The Voidclysm
+entity.voidclysm_bolt.name=Voidclysm Bolt
+entity.void_bomb.name=Voidclysm Bomb
+entity.voidclysm_spike.name=Voidclysm Spike
+entity.void_projectile.name=Voidclysm Tracking Magic
+entity.void_hole.name=Voidclysm Blackhole
+entity.desert_storm.name=Desert Storm
+item.void_leaf.name=Void Leaf
+item.spore.name=Void Blossom Spore
+item.crystal_fruit.name=Crystal Fruit
+item.void_thorns.name=Void Thorn
+item.void_dagger.name=Void Dagger
+item.abberrant_eye.name=Aberrant Mana
+item.endless_enderpearl.name=Charged Ender Pearl
+item.ambition_flame.name=Flame of Ambition
+item.enflamed_meat.name=Inflamed Meat
+item.ambition_sword.name=Greatsword of Ambition
+item.projectile_flame.name=Ambitious Flame
+item.fake_healing_potion.name=Fake Healing Potion(Creative Only)
+item.flame_helmet.name=Flame Metal Helmet
+item.flame_chestplate.name=Flame Metal Chestplate
+item.flame_leggings.name=Flame Metal Leggings
+item.flame_boots.name=Flame Metal Boots
+item.flame_metal_scrap.name=Flame Metal Scrap
+item.knight_shard.name=Stormvier Shard
+item.knight_ingot.name=Stormvier Ingot
+item.knight_key.name=Rotten Hold Dungeon Key
+item.knight_rapier.name=Stormvier Rapier
+item.glow_berry.name=Glow Berries
+item.soul_star_item.name=Soul Star
+item.magic_projectile.name=Magic Projectile
+item.magic_fireball.name=Magic Fireball
+item.ancient_mana.name=Ancient Anima
+item.missile_projectile.name=Magic Tracking Projectile
+item.spear_staff.name=Spear of the Soulless Mage
+item.spear_weapon.name=Spear of the Soulless Warrior
+item.red_ancient_mana.name=Inflamed Ancient Anima
+item.lich_helmet.name=Crown of the Soulless
+item.bomd_mod_logo.name=BOMD + DA Mod Logo
+item.frost_shard.name=Wyrk Shard
+item.frost_ingot.name=Wyrk Crystal
+item.frost_bullet.name=Frost Bullet
+item.frost_key.name=Frozen Castle Dungeon Key
+item.frost_sword.name=Frostborn Sword
+item.champion_axe.name=Axe of the Frostborn Champion
+item.draugr_shard.name=Frostborn Shard
+item.draugr_ingot.name=Frostborn Ingot
+item.draugr_shield.name=Frostborn Shield
+item.draugr_helmet.name=Frostborn Helmet
+item.draugr_chestplate.name=Frostborn Chestplate
+item.great_wyrk_mana.name=Ancient Wyrk Anima
+item.imperial_halberd_item.name=The Prosperous Assault
+item.sword_spear.name=Divine Sword Spear
+item.sword_spear_blood.name=Bloodied Sword Spear
+item.king_helmet.name=Crown of the Cursed
+item.crypt_plate.name=Dark Metal Plate
+item.dark_metal_helmet.name=Dark Metal Helmet
+item.dark_metal_chestplate.name=Dark Metal Chestplate
+item.dark_metal_leggings.name=Dark Metal Leggings
+item.dark_metal_boots.name=Dark Metal Boots
+item.kopis.name=Aegyptian Kopis
+item.desert_storm.name=Desert Storm Projectile
+da.desc.draugr_shield_name=Frostborn Shield
+da.desc.dragon_shield_name=Dragon Scourage Shield
+da.desc.flame_shield_name=Incendium Shield
+da.desc.dark_shield_name=Dark Metal Shield
+da.desc.obsidian_shield_name=Obsidilith's Shield
+item.frost_locator.name=Frozen Soul Star
+item.wyrk_helmet.name=Ancient Wyrk Helmet
+item.wyrk_boots.name=Ancient Wyrk Boots
+item.wyrk_snack.name=The Survivor's Endless Hunger
+item.wyrk_staff.name=Ancient Wyrk Staff
+item.wyrk_totem.name=Wyrk Elemental Totem
+item.sky_arrow.name=Golden Tracking Arrow
+item.lightning_shard.name=Lithic Shard
+item.lightning_ingot.name=Lithic Ingot
+item.lightning_smithing_stone.name=Dragon Smithing Stone
+item.lightning_key.name=High Court City Dungeon Key
+item.light_ring.name=Lightning Ring
+item.imperial_sword_item.name=Master Parry Sword
+item.divine_scroll.name=Divine Scroll
+item.crumble_berries.name=Crumble Berries
+item.light_mana.name=Divine Mana
+item.imperial_chestplate.name=Lithic Chestplate
+item.imperial_helmet.name=Lithic Helmet
+item.imperial_leggings.name=Lithic Leggings
+item.imperial_boots.name=Lithic Boots
+item.dark_mana.name=Roh Void Mana
+item.dark_core.name=Roh Void Core
+item.dark_locator.name=Cult of Roh Eye
+item.dark_dagger.name=Roh Void Dagger
+item.storm_tornado.name=Storm Tornado
+item.dragon_scale.name=High Dragon Scales
+item.divine_metal.name=Divine Metal Scrap
+item.sky_locator.name=Orb of Light
+item.sky_locator_proj.name=Light Projectile
+item.holy_wave.name=Holy Wave
+item.blood_ball.name=Blood Ball
+item.king_claw.name=Lithic Clawed Glove
+item.king_aid.name=King's Aid
+item.dragon_bow.name=Dragon Scourage Bow
+item.flame_locator.name=Spark of Ambition
+item.incendium_core.name=Incendium Core
+item.incendium_helmet.name=Incendium Helmet
+item.incendium_leggings.name=Incendium Leggings
+item.flame_blade.name=Ambitious Flame Blade
+item.sealed_flame.name=Sealed Flame Bottle
+item.volatile_orb.name=Volactile Pearl
+item.proj_flame_blade.name=Flame Blade Projectile
+item.flame_shield.name=Incendium Shield
+item.obsidian_shield.name=Obsidilith's Shield
+item.dark_sicle.name=Dark Metal Sickle
+item.soul_key.name=Key of Souls
+item.beetle_shell.name=Scutter Chitin
+item.desert_locator_projectile.name=Forgotten Temple Locator Projectile
+item.desert_locator.name=Desolate Trinket
+item.rot_locator.name=Rotten Core
+item.beetle_morsel.name=Raw Beetle Morsel
+item.cooked_beetle_morsel.name=Cooked Beetle Morsel
+item.obsdian_heart.name=Obsidian Heart
+item.obsidian_eye.name=Obsidian Eye
+item.voidiant_core.name=Voidiant Core
+item.voidiant_catalyst.name=Voidiant Catalyst
+item.voidiant_chestplate.name=Voidiant Chestplate
+item.voidclysm_bolt.name=Voidclysm Bolt
+item.voidclysm_crystal.name=Voidclysm Crystal
+item.obsidian_locator.name=Call of the Void
+item.void_hammer.name=Voidclystic Hammer
+item.obsidian_helm.name=Voidic Helmet
+item.flower_crown.name=Void Blossom's Crown
+item.void_staff.name=Voidclystic Staff
+tile.spore_blossom.name=Void Blossom
+tile.moss_block.name=Moss Block
+tile.moss_carpet.name=Moss Carpet
+tile.mossy_spruce.name=Mossy Spruce Planks
+tile.strong_block.name=Flower Spawning Block
+tile.az_fence.name=Vine Wall
+tile.cave_spawner.name=Boss Spawner
+tile.aza_vines.name=Azalea Vines
+tile.aza_vines_berries.name=Azalea Vines with Berries
+tile.mega_structure.name=Mega Structure Block
+tile.azaela_leaf.name=Azalea Leaves
+tile.fire_stone.name=Fiery Stonebrick
+tile.fire_stone_lit.name=Fiery Lit Stonebrick
+tile.fire_stone_stairs.name=Fiery Stonebrick Stairs
+tile.fire_stone_wall.name=Fiery Stonebrick Wall
+tile.fire_stone_half.name=Fiery Stonebrick Slab
+tile.fire_stone_double.name=Fiery Stonebrick Double Slab
+tile.change_block.name=Red Netherbrick Door
+tile.knight_stone.name=Stormvier Decoration Block
+tile.knight_key_block.name=Rotten Hold Boss Key Block
+tile.moss_spawner.name=Mossy Disappearing Spawner Block
+tile.gloom_stone.name=Petrogloom Cobblestone
+tile.gloom_brick.name=Petrogloom Bricks
+tile.gloom_smooth.name=Smooth Petrogloom
+tile.gloom_carved.name=Carved Petrogloom
+tile.gloom_pillar.name=Petrogloom Pillar
+tile.gloom_rough.name=Petrogloom
+tile.gloom_triangle.name=Petrogloom Decoration Stone
+tile.gloom_stone_stairs.name=Petrogloom Cobblestone Stairs
+tile.gloom_smooth_stairs.name=Smooth Petrogloom Stairs
+tile.gloom_brick_stairs.name=Petrogloom Brick Stairs
+tile.gloom_stone_half.name=Petrogloom Cobblestone Slab
+tile.gloom_stone_double.name=Double Petrogloom Cobblestone Slab
+tile.gloom_smooth_half.name=Smooth Petrogloom Slab
+tile.gloom_smooth_double.name=Double Smooth Petrogloom Slab
+tile.gloom_brick_half.name=Petrogloom Brick Slab
+tile.gloom_brick_double.name=Double Petrogloom Brick Slab
+tile.gloom_stone_wall.name=Petrogloom Cobblestone Wall
+tile.gloom_smooth_wall.name=Smooth Petrogloom Wall
+tile.gloom_brick_wall.name=Petrogloom Brick Wall
+tile.soul_star_block.name=Chiseled Stone Altar Block
+tile.void_lily.name=Void Lily
+tile.levitation_block.name=Levitation Altar
+tile.cold_stone.name=Chilled Petrogloom Cobblestone
+tile.cold_brick.name=Chilled Petrogloom Brick
+tile.cold_smooth.name=Smooth Chilled Petrogloom
+tile.cold_carved.name=Chilled Carved Petrogloom
+tile.cold_rough.name=Chilled Petrogloom
+tile.cold_pillar.name=Chilled Petrogloom Pillar
+tile.cold_triangle.name=Chilled Petrogloom Decoration Stone
+tile.snow_cold_brick.name=Snowy Chilled Petrogloom Bricks
+tile.cold_brick_stairs.name=Chilled Petrogloom Brick Stairs
+tile.cold_stone_stairs.name=Chilled Petrogloom Cobblestone Stairs
+tile.cold_smooth_stairs.name=Smooth Chilled Petrogloom Stairs
+tile.cold_stone_half.name=Chilled Petrogloom Cobblestone Slab
+tile.cold_stone_double.name=Double Chilled Petrogloom Cobblestone Slab
+tile.cold_smooth_half.name=Smooth Chilled Petrogloom Slab
+tile.cold_smooth_double.name=Double Smooth Chilled Petrogloom Slab
+tile.cold_brick_half.name=Chilled Petrogloom Brick Slab
+tile.cold_brick_double.name=Double Chilled Petrogloom Brick Slab
+tile.cold_stone_wall.name=Chilled Petrogloom Cobblestone Wall
+tile.cold_smooth_wall.name=Smooth Chilled Petrogloom Wall
+tile.cold_brick_wall.name=Chilled Petrogloom Brick Wall
+tile.frost_icicle.name=Frozen Icicle
+tile.frost_key_block.name=Frozen Castle Key Block
+tile.city_brick.name=Farum Bricks
+tile.city_brick_alt.name=Farum Road Bricks
+tile.city_decoration.name=Farum Decorium
+tile.city_pillar.name=Faurm Pillar
+tile.city_pillar_chisled.name=Chiseled Farum Pillar
+tile.city_smooth.name=Polished Farum Stone
+tile.city_tile.name=Farum Tiled Bricks
+tile.city_chisled.name=Chiseled Farum Decorium
+tile.city_brick_stairs.name=Farum Brick Stairs
+tile.city_brick_stairs_alt.name=Farum Road Brick Stairs
+tile.city_tile_stairs.name=Faurm Tiled Brick Stairs
+tile.city_brick_half.name=Faurm Brick Slab
+tile.city_brick_double.name=Double Farum Brick Slab
+tile.city_brick_alt_half.name=Farum Road Brick Slab
+tile.city_brick_alt_double.name=Double Farum Road Brick Slab
+tile.city_tile_half.name=Farum Tiled Brick Slab
+tile.city_tile_double.name=Double Farum Tiled Brick Slab
+tile.city_brick_wall_alt.name=Farum Brick Road Wall
+tile.city_brick_wall.name=Farum Brick Wall
+tile.city_tile_wall.name=Farum Tiled Wall
+tile.city_smooth_wall.name=Polished Farum Stone Wall
+tile.gold_city_brick.name=Gilded Farum Bricks
+tile.gold_city_brick_stairs.name=Gilded Farum Brick Stairs
+tile.gold_city_brick_half.name=Gilded Farum Brick Slab
+tile.gold_city_brick_double.name=Double Gilded Farum Brick Slab
+tile.gold_city_brick_wall.name=Gilded Farum Brick Wall
+tile.farum_rope.name=Farum Rope
+tile.farum_lantern.name=Farum Lantern
+tile.high_spawner.name=High Court City Disappearing Spawner
+tile.sky_key_block.name=High Court City Dungeon Block
+tile.chisled_fire_stone.name=Fiery Chiseled Stonebrick
+tile.farum_stone.name= Farum Stone
+tile.grum_brick.name=Grum Bricks
+tile.grum_tile.name=Tiled Grum Bricks
+tile.grum_stone.name=Grum Stone
+tile.grum_pillar.name=Grum Pillar
+tile.grum_chisled.name=Chiseled Grum Stone
+tile.grum_chisled_tile.name=Chiseled Tiled Grum Bricks
+tile.grum_smooth.name=Smooth Grum Stone
+tile.grum_brick_stairs.name=Grum Brick Stairs
+tile.grum_brick_half.name=Grum Brick Slab
+tile.grum_brick_double.name=Double Grum Brick Slab
+tile.grum_brick_wall.name=Grum Brick Wall
+tile.puzzle_mirror.name=Grum Ritual Lens
+tile.grum_displacer.name=Grum Displacer Lens
+tile.grum_dispenser.name=Grum Feuler Dispenser
+tile.grum_blocker.name=Grum Sealing Eye Pot
+tile.grum_tile_r.name=Grum Sealed Brick
+tile.temple_spawner.name=Forgotten Temple Disappearing Spawner
+tile.boss_resummon.name=Soul Altar
+tile.dark_brick.name=Darglow Stone Brick
+tile.obsidilith_rune.name=Obsidilith Rune
+tile.fake_obsidian.name=Obsidilith Rune Point
+tile.obsidian_end_frame.name=Obsidian End Frame
+tile.end_spawner.name=End Disappearing Spawner
+tile.dungeon_brick.name=Dungeon Stone Bricks
+tile.mossy_dungeon_brick.name=Mossy Dungeon Stone Bricks
+tile.dungeon_brick_half.name=Dungeon Stone Brick Slab
+tile.dungeon_brick_double.name=Double Dungeon Stone Brick Slab
+tile.dungeon_brick_stairs.name=Dungeon Stone Brick Stairs
+tile.dungeon_brick_wall.name=Dungeon Stone Brick Wall
+
+
+itemGroup.dungeon_additions=BOMD + Dungeon Additions Items
+itemGroup.dungeon_additions_blocks=BOMD + Dungeon Additions Blocks
+
+da.lich_spawn.soul_star=Maybe something of a star like shape?
+da.lich_wrong_time=The sun must set first
+da.within_bounds=You are within the radius of the structure, item locator resetting
+da.friend_wyrk=You already have a Friendly Wyrk under your command near you!
+da.friend_halberd=There is already a Summoned Halbidier near you!
+da.sky_arrow_fail=Failed to shoot due to there not being a target aimed at!
+da.volatile_orb=It's flame is not yet satisfied, there is still fire elementals nearby.
+da.no_structure=There is no current structure within the search radius
+da.required_advancement=You have slain this boss yet to re-summon.
+
+da.desc.regen_fruit=Grants brief regen and resistance
+da.desc.crafting_material=Crafting material
+da.desc.dagger_desc=Right clicking shoots thorns in front of you
+da.desc.pearl_desc=Reusable and gives brief resistance after teleport
+da.desc.flame_of_ambition=Used to light the floating obelisk in the dungeon
+da.desc.flame_meat=Gives fire resistance for a minute upon eating
+da.desc.flame_sword=May it spark you forward! Right clicking launches an AOE attack, and sword is resistant to fire
+da.desc.flame_armor_desc=Full set gives Fire Resistance 1 and boosts AOE range by the Sword of Ambition
+da.desc.fire_stone_desc=When mined it drops various Nether related items
+da.desc.rot_knight_key=Used to unlock the keyed block in the Rotten Hold
+da.desc.rapier_desc=Well crafted, faster, and slightly better than iron
+da.desc.soul_star_desc=Where does it lead?
+da.desc.void_lily_desc=Where does the Pollen Lead?
+da.desc.soul_spear_desc=Right click shoots missiles, Shift + Right click launches a comet
+da.desc.soul_weapon_desc=Right click launches ground missiles, Shift + Right click launches an AOE
+da.desc.night_lich_desc=Grants Resistance to Poison and boosts damage of Soulless Spear abilities greatly
+da.desc.levitation_block_desc=Gives Levitation to nearby mobs if not powered, when powered gives it to players
+da.desc.dungeon_frost_key_desc=Used in the giant room in the Frozen Castle
+da.desc.champion_axe_desc=You deal more damage the lower your health is, jumping crits negate this effect.
+da.desc.draugr_sword_desc=Applies slowness to creatures hit by this sword.
+da.desc.draugr_shield_desc=Blocking attacks charges the shield, when you've charged it 5 times. Sneak and block to unleash a ram attack.
+da.desc.dragon_shield_desc=Gives a nice Health Bonus when in offhand.
+da.desc.draugr_armor_desc=Full set allows for a chance of strength to be given when taking damage, increasing that chance the lower your health is.
+da.desc.wyrk_helmet_desc=Grants Resistance to Slowness. Full set bonus grants a chance of regeneration the lower your health is.
+da.desc.wyrk_boots_desc=Grants speed when on ice. Full set bonus grants a chance of regeneration the lower your health is.
+da.desc.frost_locator_desc=It's cold touch seems to guide you somewhere.
+da.desc.wyrk_snack_desc=A food that loses durability rather than consumption.
+da.desc.wyrk_staff_desc=Sneaking and holding right click will charge a lazer, scaling damage with how long it is charged. If not sneaking, shoots a Frost Bullet.
+da.desc.wyrk_totem_desc=Right clicking will summon a friendly Wyrk to follow and aid you. With souls it gains it will heal itself and nearby players.
+da.desc.snow_cold_brick_desc=If Ice is above this block, it will generate Icicles underneath.
+da.desc.sky_arrow_desc=By aiming at a precise target, the arrow will ensure it hits its target.
+da.desc.imperial_halberd_desc=Right clicking will launch a line of Lightning Bolts in front of you.
+da.desc.lighting_key_desc=Used in the High Court City's Petrogloom Arena
+da.desc.lightning_stone_desc=When used in an anvil, you can upgrade any weapons from BOMD + DA.
+da.desc.imperial_sword_desc=When right clicking, you can parry negating the damage and dealing damage to the enemy. Failing the parry will inflict weakness.
+da.desc.crumble_berries_desc=Grants Absorption for 1 minute, and Speed for 30 seconds.
+da.desc.imperial_armor_desc=Full Set allows lightning bolts to be summoned on entities that attack you and you are given Absorption for 30 seconds, the chance increasing the lower your health is.
+da.desc.imperial_helmet_desc=Grants Resistance to Weakness. Full Set allows lightning bolts to be summoned on entities that attack you and you are given Absorption for 30 seconds, the chance increasing the lower your health is.
+da.desc.dark_dagger_desc=Right clicking will launch you back shortly and it resets your fall distance.
+da.desc.sky_locator_desc=The grace of the Orb leads somewhere...
+da.desc.sword_spear_desc=Right Clicking will shoot a Light Ring, Holding Shift + Right Click will levitate you briefly and upon hitting the ground you will do an AOE.
+da.desc.sword_spear_blood_desc=Right Clicking will shoots Blood Projectiles, Holding Shift + Right Click will release a dash that damage entities and spawns Blood Piles.
+da.desc.king_helmet_desc=Immune to Wither and Mining Fatigue but you will be given Blindness instead.As well this helmet boosts damage on Sword Spear Weapons.
+da.desc.king_claw_desc=Right clicking releases a fan of ground projectiles, adding another claw in the offhand decreases cooldown, slightly increases damage of projectiles, and grants Speed when below 75 percent health.
+da.desc.king_aid_desc=Right clicking will summon a Friendly Halbidier to aid you.
+da.desc.dragon_bow_desc=Uses Golden Tracking Arrows only, Does a lot of damage but has a long cooldown after use.
+da.desc.flame_locator_desc=I wonder where in the Nether this is taking you?
+da.desc.incendium_helmet_desc=Boosts swords ability damage and effects. Full set bonus grants +4 Max Health.
+da.desc.incendium_leggings_desc=Grants Speed Briefly when using a Shield. Full set bonus grants +4 Max Health.
+da.desc.flame_blade_desc=Right Clicking will release a Flame Blade before you that can hit multiple entities.
+da.desc.sealed_flame_desc=Right Clicking will cast a flame wave in front of you.
+da.desc.flame_shield_desc=Blocking attacks charges the shield, upon sneaking and blocking you will shoot flames from your shield.
+da.desc.dark_metal_desc=Full set boosts shield ability damage significantly.
+da.desc.dark_metal_helmet_desc=Gives Night Vision during night time. Full set boosts shield ability damage significantly.
+da.desc.dark_shield_desc=Blocking attacks charges the shield, after 5 charges and sneaking you will do a short AOE attack.
+da.desc.dark_sicle_desc=Attacking causes a sweep attack, Right Clicking shoots a dark matter projectile.
+da.desc.soul_key_desc=Used to re-summon defeated bosses on a Soul Altar.
+da.desc.desert_locator_desc=It itches to return back to its civilization.
+da.desc.rot_locator_desc=Dull, old, and forgotten. Maybe it'll lead to somewhere more lively.
+da.desc.beetle_morsel_desc=Looks gross...
+da.desc.cooked_beetle_morsel_desc=Grants Night Vision and Speed for a short period of time.
+da.desc.kopis_desc=Momentum brings more pain while jumping.
+da.desc.obsidian_eye_desc=Used in the Obsidilith's arena.
+da.desc.voidiant_catalyst_desc=Right clicking will shoot a laser in your direction. Quicker reload time and higher damage if you are on fire.
+da.desc.voidiant_armor_desc=Getting hit charges this chestplate, when Runic particles appear and crouching you can do a blast attack at your position.
+da.desc.obsidian_shield_desc=Blocking attacks charges the shield. After 5 charges and sneaking and blocking you will summon a magic attack on the entity you are looking at.
+da.desc.obsidian_locator_desc=The void seems to call your name...
+da.desc.void_hammer_desc=Right click releases 3 projectiles, Shift + Right Click summons forth a black hole. Additionally half of this weapons damage bypasses armor and does a sweep attack.
+da.desc.obsidian_armor_desc=Negates Levitation and Blindness. After taking damage multiple times and fire rune particles start spawning around you, By sneaking you can summons a fire wave around you.
+da.desc.flower_crown_desc=After taking several hits, the last entity that hit you will have void thorns summoned upon them.
+da.desc.void_staff_desc=Right click shoots a void bolt, sneaking and right clicking summons a void aoe. Damage scales with weapon and being at full health provides extra damage.
+death.attack.da:maelstrom=%1$s succumbed to the void
+death.attack.da:mobMaelstrom=%1$s was killed by a %2$s
+death.attack.da:playerMaelstrom=%1$s was killed by %2$s
+death.attack.da:thrownMaelstrom=%1$s was pummeled to death by a %2$s
+death.attack.da:explosionMaelstrom=%1$s was blown up
+death.attack.da:explosionMaelstrom.player=%1$s was blown up while fighting a %2$s
+death.attack.da:magicMaelstrom=%1$s was magicked by a %2$s
+death.attack.da.champion_axe=%1$s died too %2$s endless rage
+death.attack.da.champion_axe.item=%1$s was smashed by %2$s using %3$s
+death.attack.da.wyrk_staff=%1$s died too %2$s
+death.attack.da.wyrk_staff.item=%1$s was magicked by %2$s using %3$s
+death.attack.da.magma_stomp=%1$s burned too %2$s
+
+advancements.da.root.title=Bosses Of Mass Destruction
+advancements.da.root.description=Welcome to BOMD + DA, bringing new bosses and dungeons!
+#Stormvier
+advancements.da.kill_fallen_stormvier.title=And so the Journey Begins!
+advancements.da.kill_fallen_stormvier.description=Slay A Fallen Stormvier in the Rotten Hold
+#Void Blossom
+advancements.da.kill_void_blossom.title=The Plant of the Void
+advancements.da.kill_void_blossom.description=Slay a Void Blossom
+#Night Lich
+advancements.da.kill_night_lich.title=He who roams in the darkness...
+advancements.da.kill_night_lich.description=Slay the Night Lich
+#Aberrant Spirit
+advancements.da.kill_abberrant.title=Enter the arena of Hell
+advancements.da.kill_abberrant.description=Find a Burning Flame Arena
+#Knight of Burning Flame
+advancements.da.kill_kobf.title=Барбекью
+advancements.da.kill_kobf.description=Slay the Knight of Burning Flame
+#Draugr Champion
+advancements.da.kill_elite_draugr.title=Champion of the Vikings
+advancements.da.kill_elite_draugr.description=Slay a Frostborn Draugr Champion
+#Ancient Wyrk
+advancements.da.kill_great_wyrk.title=The Depths of the Frost
+advancements.da.kill_great_wyrk.description=Slay an Ancient Wyrk
+#Kill High Court Halbidier
+advancements.da.kill_imperial_halberd.title=The Definition of Forgotten.
+advancements.da.kill_imperial_halberd.description=Slay a High Court Halbidier
+#Kill Cult of Roh Assassin
+advancements.da.kill_dark_assassin.title=The Cult sends there regards!
+advancements.da.kill_dark_assassin.description=Slay a Cult of Roh Assassin
+#Kill the High King
+advancements.da.kill_high_king.title=Dethroned!
+advancements.da.kill_high_king.description=Slay the High King
+#Kill Volactile Spirit
+advancements.da.kill_volatile_spirit.title=Gatekeeper.
+advancements.da.kill_volatile_spirit.description=Slay a Volactile Spirit
+#Kill Roh Crypt Guard
+advancements.da.kill_dark_royal.title=No rest for the wicked.
+advancements.da.kill_dark_royal.description=Slay a Roh Crypt Guard
+#Kill Obsidilith
+advancements.da.kill_obsidilith.title=The monolith in the void.
+advancements.da.kill_obsidilith.description=Slay the Obsidilith
+#Kill Voidclysm
+advancements.da.kill_voidclysm.title=Well that was a close one!
+advancements.da.kill_voidclysm.description=Slay the Voidclysm
+#Find Soul Star
+advancements.da.find_soul_star.title=The stars lead the way
+advancements.da.find_soul_star.description=Obtain a Soul Star
+#Find Draugr Ingot
+advancements.da.craft_draugr_ingot.title=The dead speaks to me.
+advancements.da.craft_draugr_ingot.description=Craft or Find a Frostborn Ingot
+#Craft Champion Axe
+advancements.da.craft_draugr_axe.title=Who's the Champion Now!
+advancements.da.craft_draugr_axe.description=Craft the Axe of the Frostborn Champion
+#Craft Draugr Shield
+advancements.da.craft_draugr_shield.title=I like a shield with style, do you?
+advancements.da.craft_draugr_shield.description=Craft the Frostborn Shield
+#Craft Draugr Armor
+advancements.da.craft_draugr_armor.title=The true way to play
+advancements.da.craft_draugr_armor.description=Craft the Frostborn Armor
+#Find Gloom Stone
+advancements.da.find_gloom_stone.title=The stone under the moon
+advancements.da.find_gloom_stone.description=Mine Petrogloom
+#Craft Void Lily
+advancements.da.craft_void_lily.title=Plant Problem
+advancements.da.craft_void_lily.description=Craft a Void Lily
+#Craft Flame Locator
+advancements.da.craft_flame_locator.title=The path that leads to flame.
+advancements.da.craft_flame_locator.description=Craft the Spark of Ambition
+#Craft Incendium Armor
+advancements.da.craft_incendium_armor.title=From Ash to Fire!
+advancements.da.craft_incendium_armor.description=Craft both pieces of Incendium Armor
+#Craft Ambitious Flame Blade
+advancements.da.craft_flame_blade.title=Жечь и резать
+advancements.da.craft_flame_blade.description=Craft the Ambitious Flame Blade
+#Craft Incendium Shield
+advancements.da.craft_flame_shield.title=Flame Wall.
+advancements.da.craft_flame_shield.description=Craft the Incendium Shield
+#Sealed Flame Bottle
+advancements.da.craft_sealed_flame.title=Bottle O' Flame
+advancements.da.craft_sealed_flame.description=Craft a Sealed Flame Bottle
+#Craft Flame Metal
+advancements.da.craft_flame_metal.title=The Flame Burns Again!
+advancements.da.craft_flame_metal.description=Craft the Flame Metal armor set
+#Craft Soulless Spear of the Warrior
+advancements.da.craft_spear_warrior.title=Magic & Fire Manipulation
+advancements.da.craft_spear_warrior.description=Craft Spear of the Soulless Warrior
+#Craft Soulless Spear of the Mage
+advancements.da.craft_spear_staff.title=The Lich and its Studies
+advancements.da.craft_spear_staff.description=Craft Spear of the Soulless Mage
+#Craft Levitation Altar
+advancements.da.craft_lich_altar.title=Now Fly!
+advancements.da.craft_lich_altar.description=Craft the Levitation Altar
+#Craft Endless EnderPearl
+advancements.da.craft_endless_pearl.title=Limitless Technique
+advancements.da.craft_endless_pearl.description=Craft a Charged Enderpearl
+#Craft Void Dagger
+advancements.da.craft_void_dagger.title=How do you like your poison? Sharp or Slow?
+advancements.da.craft_void_dagger.description=Craft the Void Dagger
+#Craft Frost Locator
+advancements.da.craft_frost_locator.title=The blizzard roars with excitement!
+advancements.da.craft_frost_locator.description=Craft or find the Frozen Soul Star
+#Craft Sky Locator
+advancements.da.craft_sky_locator.title=The Sun and the Storm
+advancements.da.craft_sky_locator.description=Craft a Orb of Light.
+#Craft Wyrk Staff
+advancements.da.craft_wyrk_staff.title=We like to do a little wizardry around here
+advancements.da.craft_wyrk_staff.description=Craft the Ancient Wyrk Staff
+#Craft Wyrk Armor
+advancements.da.craft_wyrk_armor.title=Path of the ice mage
+advancements.da.craft_wyrk_armor.description=Craft both pieces of the Wyrk Armor
+#Craft Wyrk Snack
+advancements.da.craft_wyrk_snack.title=Hungry Jack!
+advancements.da.craft_wyrk_snack.description=Craft the Survivor's Endless Hunger
+#Craft Wyrk Totem
+advancements.da.craft_wyrk_totem.title=Sometimes friends can be cold
+advancements.da.craft_wyrk_totem.description=Craft the Wyrk Elemental Totem
+#Craft Imperial Armor
+advancements.da.craft_imperial_armor.title=I can take a hit.
+advancements.da.craft_imperial_armor.description=Craft the full set of Lithic Armor
+#Craft Imperial Halberd
+advancements.da.craft_imperial_halberd.title=It all begins with you!
+advancements.da.craft_imperial_halberd.description=Craft the Prosperous Assault
+#Craft Imperial Sword
+advancements.da.craft_parry_sword.title=Parry this you filthy casual!
+advancements.da.craft_parry_sword.description=Craft the Master Parry Sword
+#Craft Dark Assassin Blade
+advancements.da.craft_dark_dagger.title=In the blade of Night.
+advancements.da.craft_dark_dagger.description=Craft the Roh Void Dagger
+#Craft Bloody Sword Spear
+advancements.da.craft_bloody_sword_spear.title=Sometimes, I think the world should pay for its suffering.
+advancements.da.craft_bloody_sword_spear.description=Craft the Bloodied Sword Spear
+#Craft Sword Spear
+advancements.da.craft_sword_spear.title=Those who ruled.
+advancements.da.craft_sword_spear.description=Craft the Divine Sword Spear.
+#Craft Dragon Bow
+advancements.da.craft_dragon_bow.title=Where's the Ballista?
+advancements.da.craft_dragon_bow.description=Craft the Dragon Scourage Bow.
+#Craft the Dragon Shield
+advancements.da.craft_dragon_shield.title=Divination & Sacrifice
+advancements.da.craft_dragon_shield.description=Craft the Dragon Scourage Shield.
+# Craft the King's Aid
+advancements.da.craft_king_aid.title=Arise.
+advancements.da.craft_king_aid.description=Craft the King's Aid.
+#Craft the Lithic Claws
+advancements.da.craft_king_claw.title=Up close and personal is my game.
+advancements.da.craft_king_claw.description=Craft the Lithic Clawed Glove.
+#Craft the King's Crown
+advancements.da.craft_king_helmet.title=The new king of the sky.
+advancements.da.craft_king_helmet.description=Craft the Crown of the Cursed.
+#Craft Dark Metal Set
+advancements.da.craft_dark_metal_armor.title=The Midnight Knight
+advancements.da.craft_dark_metal_armor.description=Craft the Dark Metal Set.
+#Craft Dark Metal Shield
+advancements.da.craft_dark_shield.title=The Tiresome Defender
+advancements.da.craft_dark_shield.description=Craft the Dark Metal Shield
+#Craft Dark Metal Sickle
+advancements.da.craft_dark_sicle.title=The Night of Harvest
+advancements.da.craft_dark_sicle.description= Craft the Dark Metal Sickle
+#Find Obsidian Eye
+advancements.da.craft_obsidian_eye.title=Warden's Key
+advancements.da.craft_obsidian_eye.description=Find the Obsidian Eye
+#Craft Voidiant Catalyst
+advancements.da.craft_voidiant_catalyst.title=Spacefarer!
+advancements.da.craft_voidiant_catalyst.description=Craft the Voidiant Catalyst
+#Craft Voidiant Chestplate
+advancements.da.craft_voidiant_chestplate.title=Upgrades people! Upgrades!
+advancements.da.craft_voidiant_chestplate.description=Craft the Voidiant Chestplate
+#Craft Obsidilith's Shield
+advancements.da.craft_obsidian_shield.title=Everything is in my attack radius!
+advancements.da.craft_obsidian_shield.description=Craft Obsidilith's Shield
+#Craft Call of the Void
+advancements.da.craft_obsidian_locator.title=You asked, and they answered.
+advancements.da.craft_obsidian_locator.description=Craft Call of the Void
+#Find Grum Stone
+advancements.da.find_grum_stone.title=The past Era.
+advancements.da.find_grum_stone.description=Mine Grum Stone.
+#Find Farum Stone
+advancements.da.find_farum_stone.title=Sky high builder
+advancements.da.find_farum_stone.description=Mine Farum Stone
+#Craft Void Hammer
+advancements.da.craft_void_hammer.title=Smack down!
+advancements.da.craft_void_hammer.description=Craft the Voidclystic Hammer
+#Craft Void Staff
+advancements.da.craft_void_staff.title=Mage Arena.
+advancements.da.craft_void_staff.description=Craft the Voidclystic Staff
+#Craft Obsidian Helmet
+advancements.da.craft_obsidian_helm.title=Wait. This armor has a soul?
+advancements.da.craft_obsidian_helm.description=Craft the Voidic Helmet.
+#Craft Void Blossoms Crown
+advancements.da.craft_flower_crown.title=Elegance is my demeanor.
+advancements.da.craft_flower_crown.description=Craft the Void Blossom's Crown

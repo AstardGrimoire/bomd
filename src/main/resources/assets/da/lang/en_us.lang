@@ -1,3 +1,7 @@
+##########
+#ENTITIES#
+##########
+
 entity.wreath_knight.name=Test Boss
 entity.void_blossom.name=Void Blossom
 entity.mini_blossom.name=Mini Void Blossom
@@ -86,6 +90,11 @@ entity.voidclysm_spike.name=Voidclysm Spike
 entity.void_projectile.name=Voidclysm Tracking Magic
 entity.void_hole.name=Voidclysm Blackhole
 entity.desert_storm.name=Desert Storm
+
+#######
+#ITEMS#
+#######
+
 item.void_leaf.name=Void Leaf
 item.spore.name=Void Blossom Spore
 item.crystal_fruit.name=Crystal Fruit
@@ -98,14 +107,14 @@ item.enflamed_meat.name=Inflamed Meat
 item.ambition_sword.name=Greatsword of Ambition
 item.projectile_flame.name=Ambitious Flame
 item.fake_healing_potion.name=Fake Healing Potion (Creative Only)
-item.flame_helmet.name=Flame Metal Helmet
-item.flame_chestplate.name=Flame Metal Chestplate
-item.flame_leggings.name=Flame Metal Leggings
-item.flame_boots.name=Flame Metal Boots
-item.flame_metal_scrap.name=Flame Metal Scrap
+item.flame_helmet.name=Blazing Helmet
+item.flame_chestplate.name=Blazing Chestplate
+item.flame_leggings.name=Blazing Leggings
+item.flame_boots.name=Blazing Boots
+item.flame_metal_scrap.name=Blazing Scrap
 item.knight_shard.name=Stormvier Shard
 item.knight_ingot.name=Stormvier Ingot
-item.knight_key.name=Rotten Hold Dungeon Key
+item.knight_key.name=Overgrown Key
 item.knight_rapier.name=Stormvier Rapier
 item.glow_berry.name=Glow Berries
 item.soul_star_item.name=Soul Star
@@ -116,36 +125,31 @@ item.missile_projectile.name=Magic Tracking Projectile
 item.spear_staff.name=Spear of the Soulless Mage
 item.spear_weapon.name=Spear of the Soulless Warrior
 item.red_ancient_mana.name=Nether Anima
-item.lich_helmet.name=Crown of the Soulless
+item.lich_helmet.name=Soulbound Crown
 item.bomd_mod_logo.name=BOMD + DA Mod Logo
 item.frost_shard.name=Wyrk Shard
 item.frost_ingot.name=Wyrk Crystal
 item.frost_bullet.name=Frost Bullet
-item.frost_key.name=Frozen Castle Dungeon Key
-item.frost_sword.name=Frostborn Sword
+item.frost_key.name=Frozen Key
+item.frost_sword.name=Frostborn Sworddocker exec -i mysql-db mysql -uroot -pdb_newpass123 -e "show databases;"
 item.champion_axe.name=Axe of the Frostborn Champion
 item.draugr_shard.name=Frostborn Shard
 item.draugr_ingot.name=Frostborn Ingot
 item.draugr_shield.name=Frostborn Shield
 item.draugr_helmet.name=Frostborn Helmet
 item.draugr_chestplate.name=Frostborn Chestplate
-item.great_wyrk_mana.name=Wyrk Anima
+item.great_wyrk_mana.name=Premature Anima
 item.imperial_halberd_item.name=The Prosperous Assault
 item.sword_spear.name=Divine Sword Spear
 item.sword_spear_blood.name=Bloodied Sword Spear
-item.king_helmet.name=Crown of the Cursed
-item.crypt_plate.name=Dark Metal Plate
-item.dark_metal_helmet.name=Dark Metal Helmet
-item.dark_metal_chestplate.name=Dark Metal Chestplate
-item.dark_metal_leggings.name=Dark Metal Leggings
-item.dark_metal_boots.name=Dark Metal Boots
+item.king_helmet.name=Cursed Crown
+item.crypt_plate.name=Shadow Plate
+item.dark_metal_helmet.name=Shadow Helmet
+item.dark_metal_chestplate.name=Shadow Chestplate
+item.dark_metal_leggings.name=Shadow Leggings
+item.dark_metal_boots.name=Shadow Boots
 item.kopis.name=Aegyptian Kopis
 item.desert_storm.name=Desert Storm Projectile
-da.desc.draugr_shield_name=Frostborn Shield
-da.desc.dragon_shield_name=Dragon Scourage Shield
-da.desc.flame_shield_name=Incendium Shield
-da.desc.dark_shield_name=Dark Metal Shield
-da.desc.obsidian_shield_name=Obsidilith's Shield
 item.frost_locator.name=Frozen Soul Star
 item.wyrk_helmet.name=Wyrk Helmet
 item.wyrk_boots.name=Wyrk Boots
@@ -153,25 +157,25 @@ item.wyrk_snack.name=The Survivor's Endless Hunger
 item.wyrk_staff.name=Wyrk Staff
 item.wyrk_totem.name=Wyrk Totem
 item.sky_arrow.name=Golden Arrow
-item.lightning_shard.name=Lithic Shard
-item.lightning_ingot.name=Lithic Ingot
+item.lightning_shard.name=Heavenforged Shard
+item.lightning_ingot.name=Heavenforged Ingot
 item.lightning_smithing_stone.name=Dragon Smithing Stone
-item.lightning_key.name=High Court City Dungeon Key
+item.lightning_key.name=Glowing Key
 item.light_ring.name=Lightning Ring
 item.imperial_sword_item.name=Master Parry Sword
 item.divine_scroll.name=Divine Scroll
 item.crumble_berries.name=Crumble Berries
 item.light_mana.name=Divine Mana
-item.imperial_chestplate.name=Lithic Chestplate
-item.imperial_helmet.name=Lithic Helmet
-item.imperial_leggings.name=Lithic Leggings
-item.imperial_boots.name=Lithic Boots
-item.dark_mana.name=Roh Void Mana
-item.dark_core.name=Roh Void Core
-item.dark_locator.name=Cult of Roh Eye
-item.dark_dagger.name=Roh Void Dagger
+item.imperial_chestplate.name=Heavenforged Chestplate
+item.imperial_helmet.name=Heavenforged Helmet
+item.imperial_leggings.name=Heavenforged Leggings
+item.imperial_boots.name=Heavenforged Boots
+item.dark_mana.name=Void Mana
+item.dark_core.name=Void Core
+item.dark_locator.name=Eye of Void
+item.dark_dagger.name=Void Dagger
 item.storm_tornado.name=Storm Tornado
-item.dragon_scale.name=High Dragon Scales
+item.dragon_scale.name=Dragon Scales
 item.divine_metal.name=Divine Metal Scrap
 item.sky_locator.name=Orb of Light
 item.sky_locator_proj.name=Light Projectile
@@ -210,6 +214,11 @@ item.void_hammer.name=Voidclystic Hammer
 item.obsidian_helm.name=Voidic Helmet
 item.flower_crown.name=Void Blossom's Crown
 item.void_staff.name=Voidclystic Staff
+
+########
+#BLOCKS#
+########
+
 tile.spore_blossom.name=Void Blossom
 tile.moss_block.name=Moss Block
 tile.moss_carpet.name=Moss Carpet
@@ -273,7 +282,7 @@ tile.cold_brick_double.name=Double Chilled Petrogloom Brick Slab
 tile.cold_stone_wall.name=Chilled Petrogloom Cobblestone Wall
 tile.cold_smooth_wall.name=Smooth Chilled Petrogloom Wall
 tile.cold_brick_wall.name=Chilled Petrogloom Brick Wall
-tile.frost_icicle.name=Frozen Icicle
+tile.frost_icicle.name=Icicle
 tile.frost_key_block.name=Frozen Castle Key Block
 tile.city_brick.name=Farum Bricks
 tile.city_brick_alt.name=Farum Road Bricks
@@ -337,9 +346,16 @@ tile.dungeon_brick_double.name=Double Dungeon Stone Brick Slab
 tile.dungeon_brick_stairs.name=Dungeon Stone Brick Stairs
 tile.dungeon_brick_wall.name=Dungeon Stone Brick Wall
 
+###############
+#CREATIVE TABS#
+###############
 
 itemGroup.dungeon_additions=BOMD + Dungeon Additions Items
 itemGroup.dungeon_additions_blocks=BOMD + Dungeon Additions Blocks
+
+##########
+#MESSAGES#
+##########
 
 da.lich_spawn.soul_star=Maybe something of a star like shape?
 da.lich_wrong_time=The sun must set first
@@ -347,9 +363,19 @@ da.within_bounds=You are within the radius of the structure, item locator resett
 da.friend_wyrk=You already have a Friendly Wyrk under your command near you!
 da.friend_halberd=There is already a Summoned Halbidier near you!
 da.sky_arrow_fail=Failed to shoot due to there not being a target aimed at!
-da.volatile_orb=It's flame is not yet satisfied, there is still fire elementals nearby.
+da.volatile_orb=It's flame is not yet satisfied, there is still fire elementals nearby
 da.no_structure=There is no current structure within the search radius
-da.required_advancement=You have slain this boss yet to re-summon.
+da.required_advancement=You have slain this boss yet to re-summon
+
+##############
+#DESCRIPTIONS#
+##############
+
+da.desc.draugr_shield_name=Frostborn Shield
+da.desc.dragon_shield_name=Dragon Scourage Shield
+da.desc.flame_shield_name=Incendium Shield
+da.desc.dark_shield_name=Dark Metal Shield
+da.desc.obsidian_shield_name=Obsidilith's Shield
 
 da.desc.regen_fruit=Grants brief regen and resistance
 da.desc.crafting_material=Crafting material
@@ -422,6 +448,11 @@ da.desc.void_hammer_desc=Right click releases 3 projectiles, Shift + Right Click
 da.desc.obsidian_armor_desc=Negates Levitation and Blindness. After taking damage multiple times and fire rune particles start spawning around you, By sneaking you can summons a fire wave around you.
 da.desc.flower_crown_desc=After taking several hits, the last entity that hit you will have void thorns summoned upon them.
 da.desc.void_staff_desc=Right click shoots a void bolt, sneaking and right clicking summons a void aoe. Damage scales with weapon and being at full health provides extra damage.
+
+################
+#DEATH MESSAGES#
+################
+
 death.attack.da:maelstrom=%1$s succumbed to the void
 death.attack.da:mobMaelstrom=%1$s was killed by a %2$s
 death.attack.da:playerMaelstrom=%1$s was killed by %2$s
@@ -434,6 +465,10 @@ death.attack.da.champion_axe.item=%1$s was smashed by %2$s using %3$s
 death.attack.da.wyrk_staff=%1$s died too %2$s
 death.attack.da.wyrk_staff.item=%1$s was magicked by %2$s using %3$s
 death.attack.da.magma_stomp=%1$s burned too %2$s
+
+##############
+#ADVANCEMENTS#
+##############
 
 advancements.da.root.title=Bosses Of Mass Destruction
 advancements.da.root.description=Welcome to BOMD + DA, bringing new bosses and dungeons!
